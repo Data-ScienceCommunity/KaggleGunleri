@@ -1,0 +1,2 @@
+# KaggleGunleri
+Merhaba arkadaşlar
